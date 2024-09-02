@@ -164,7 +164,7 @@ Aşağdakileri notHesapla fonksiyonunda yap.
 */
 
 function notHesapla(sayi_bir,sayi_iki) {
-  return sayi_bir * sayi_iki;
+  return sayi1 * sayi2;
 }
 
 /* Bonus Çalışma: Sesli harf sayacı - Kaç tane sesli harf var? */
