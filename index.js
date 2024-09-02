@@ -163,8 +163,8 @@ Aşağdakileri notHesapla fonksiyonunda yap.
  dönün
 */
 
-function notHesapla(sayi1,sayi2) {
-  return sayi1 * sayi2;
+function notHesapla(sayi_bir,sayi_iki) {
+  return sayi_bir * sayi_iki;
 }
 
 /* Bonus Çalışma: Sesli harf sayacı - Kaç tane sesli harf var? */
